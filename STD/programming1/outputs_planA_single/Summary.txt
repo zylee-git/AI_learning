@@ -1,0 +1,4 @@
+A1: {'run': 'A1_single_run', 'lr': 0.1, 'weight_decay': 0.0, 'epochs': 100, 'batch_size': 128, 'best_epoch': 13, 'best_val_acc': 0.765, 'wall_time_sec': 6292.29}
+A2: {'run': 'A2_single_run', 'lr': 0.01, 'weight_decay': 0.0, 'epochs': 100, 'batch_size': 128, 'best_epoch': 89, 'best_val_acc': 0.7845, 'wall_time_sec': 5858.98}
+A3: {'run': 'A3_single_run', 'lr': 0.1, 'weight_decay': 0.0005, 'epochs': 100, 'batch_size': 128, 'best_epoch': 62, 'best_val_acc': 0.7991, 'wall_time_sec': 5870.44}
+A4: {'run': 'A4_single_run', 'lr': 0.1, 'weight_decay': 0.0, 'epochs': 100, 'batch_size': 128, 'best_epoch': 84, 'best_val_acc': 0.7495, 'wall_time_sec': 5868.99}
